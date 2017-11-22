@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          Tale
 paginate:       5
 baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+url:            "https://techcentaur.github.io"
 
 # Assets
 sass:
@@ -17,14 +17,14 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
+  name:         Ankit Solanki
+  #url:          http://chester.how
+  email:        ankit03june@gmail.com
 
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/chesterhow/tale
+  repo:         https://github.com/techcentaur/tale
 
 # Gems
 gems:
