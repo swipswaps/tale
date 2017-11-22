@@ -1,15 +1,19 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Ankit Solanki"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Particularly I'm intrigued by **Ideas**. Ideas that generate excitement and a sense of creativity. Maybe about twisted plot of a Time-travelling movie, maybe the music of the 60's - 'Runaround Sue', maybe the functions implemented in Advanced data structures, maybe the astronomical calculations of the rotatory motion of heavenly bodies, maybe the 126Hz beat drop, maybe the girl standing around the corner in the overly-crowded restaurant, maybe the little walk at 3 am, maybe the corner goal in FIFA'17 with Magnus effect, maybe about the infinite possible possibilities in the infinite multiverse. As long as ideas will make me feel excited, I'll be more than happy to work on them and with them.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+## Things that I interested to do-
+1. **Psychology - through the fine line of Meta-physics and Spiritual Materialism**
+2. **Financial Marketing and World Economy**
+3. **Machine Learning - Aritifical Intelligence**
+4. **Psychological Thriller - Movies**
+5. **Soft Classic, Hard Metal, R%B, hip hop - Music**
 
-Thanks for reading!
+
+See my posts to get a view on my philosophy over some dense subjects of Multiverse  :)
