@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Example Content"
-author: "Chester"
+title: "How to use this theme?"
+author: "Ankit"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis. Nullam interdum ultricies nibh quis sollicitudin. Donec ornare fermentum facilisis. Ut at sem ac sem imperdiet varius a eget tortor. Nam eu augue eget orci semper maximus in eget augue. Mauris ornare, nisl ut suscipit consectetur, mi quam interdum tellus, at rutrum quam eros ultrices mi.
+Hey Guys! **Ankit** is here. If you liked this site and want to use this website as your theme, you can fork my github repo at Github handle [techcentuar](https://www.github.com/techcentaur/tale). Feel free to edit it. Here is how to write post in it?
+
 
 # Headers
 {% highlight markdown %}
