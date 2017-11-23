@@ -11,7 +11,7 @@
         </a>
         <ul>
           <li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
-          <li><a href="{{ site.baseurl }}/">Posts</a></li>
+          <li><a href="{{ site.baseurl }}/">Blog-Posts</a></li>
         </ul>
     </div>
   </nav>
@@ -20,11 +20,10 @@
       {{ content }}
     </main>
 
-    <footer>
+    <footer style="font-family: 'Montserrat';">
       <span>
-        &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> <b><u>{{ site.author.name }}</u></b>. Made with Jekyll using the <a href="https://github.com/techcentaur/tale/">Tale</a> theme.
+        &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> <b>Ankit</b>. Made with Jekyll using <a href="https://github.com/techcentaur/tale/">Tale</a>.
       </span><br>
-      <center>Hearty Thanks to Chester How</center>
     </footer>
   </body>
 </html>

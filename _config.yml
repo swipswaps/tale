@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Ankit Solanki | Blog
+title:          Ankit Solanki
 paginate:       5
 baseurl:        "/tale"
 url:            "https://techcentaur.github.io"

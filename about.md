@@ -5,7 +5,14 @@ author: "Ankit Solanki"
 permalink: /about/
 ---
 
-Particularly I'm intrigued by **Ideas**. Ideas that generate excitement and a sense of creativity. Maybe about twisted plot of a Time-travelling movie, maybe the music of the 60's - 'Runaround Sue', maybe the functions implemented in Advanced data structures, maybe the astronomical calculations of the rotatory motion of heavenly bodies, maybe the 126Hz beat drop, maybe the girl standing around the corner in the overly-crowded restaurant, maybe the little walk at 3 am, maybe the corner goal in FIFA'17 with Magnus effect, maybe about the infinite possible possibilities in the infinite multiverse. As long as ideas will make me feel excited, I'll be more than happy to work on them and with them.
+Hey Guys! Particularly I'm intrigued by **Ideas**. Ideas that engulf the fear of excitement to the sense of a vision. Does that sound some overwhelming bragging to you. That was indeed. So let me say it clear.
+
+
+I like to get motivated with a spark of excitement and surprise about Ideas and materials. Maybe about the helixcally-twisted plot of a self-duplicating time-travelling movie, maybe the jazz music and graciously plucked strings of guitar of the 60's - 'You are my Sunshine', maybe the long coding sessions of a fairly simple problem, maybe the complicated mathematical calculations of the rotatory motion of heavenly bodies, maybe the 126Hz beat drop, maybe the girl standing around the corner in navy blue skirt at a overly-crowded restaurant, maybe the slow walk at 3 am under swiftly falling rain drops (Was that romantic?), maybe the head shot in CSGO from a far away sniper point, maybe about the infinite possible possibilities in the infinitly diverged multi-dimensional multiverse. As long as I live on Ideas, my illusion lies beside me. Maybe a old-fashioned barrier with a moderately healthly way to look at.
+
+Was that a little complicated way to express? Let me try to keep it **short and clean.**
+
+![Blogger](https://techcentaur.github.io/spacetime/images/picTeam/ankit.png "Blogger")
 
 
 ## Things that I interested to do-

@@ -10,16 +10,13 @@ title: Home
         <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
         <h1 class="catalogue-title">{{ post.title }}</h1>
         <div class="catalogue-line"></div>
-
         <p>
-          {{ post.content | truncatewords: 50 | strip_html }}
+          {{ post.content | truncatewords: 40 | strip_html }}
         </p>
-
       </div>
     </a>
   {% endfor %}
 </div>
-
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
