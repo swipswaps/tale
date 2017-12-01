@@ -24,7 +24,7 @@ Was that a little-complicated way to express? Let me try to **describe myself in
 
 <br>
 ## Field that I'm explicitly interested in
-1. **Psychology - through the fine line of Meta-physics and Spiritual Materialism**
+1. **Psychology -the fine line of Materialistic-Metaphysics and Spiritual Existentialism**
 2. **Financial Marketing and World Economy**
 3. **Machine Learning - Artificial Intelligence**
 4. **DC Extended Universe**( Should have mentioned earlier )
