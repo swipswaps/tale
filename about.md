@@ -6,6 +6,7 @@ permalink: /about/
 
 ---
 
+
 **Hey Guys!** Particularly I'm intrigued by **Ideas**. Ideas that engulf the fear of excitement to the sense of a vision. Does that sound some overwhelming bragging to you? That was indeed. So let me say it clearly.
 
 
