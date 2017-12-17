@@ -20,39 +20,6 @@ permalink: /chosen6/
 
 <hr style="opacity: 0.2">
 
-## Best-6 Movies
-
-1. The Shawshank Redemption
-2. Schindler's List
-3. Primer + Requiem for a dream
-4. The Social Network
-5. Dunkirk
-6. Fight Club
-
-<hr style="opacity: 0.2">
-
-## Best-6 Actors
-
-1. Benedict Cumberbatch
-2. Jesse Eisenberg 
-3. Brad Pitt
-4. Client Eastwood
-5. Russell Crowe + Johnny Depp
-6. Ryan Gosling + Ryan Renolds
-
-<hr style="opacity: 0.2">
-
-## Best-6 Actresses
-
-1. Scarlett Johansson
-2. Megan Fox
-3. Jennifer Connelley
-4. Jennifer Lawrence
-5. Gal Gadot
-6. Mila Kunis
-
-<hr style="opacity: 0.2">
-
 ## Best-6 Victoria-Secret Model
 
 1. Barbara Palvin
@@ -66,12 +33,11 @@ permalink: /chosen6/
 
 ## Best-6 Songs
 
-1. Champhagne Supernova (Oasis) + Wake me up when september ends (Green day)
-2. The Zephyr Song (RHTP) + Hey there Delilah! (Plain White T's)
-3. Kashmir (Led Zepplin) + Creep (Radiohead)
-4. The Night we met (Lord Huran) + You are my sunshine (Jimmy Davis)
-5. Hurt (Johnny Cash)+ Crazy (Ray LaMontagne) +  La ein en rose (Louis Armstrong)
-6. Ek pyaar ka nagma hai
+1. Champhagne Supernova (Oasis)
+2. The Zephyr Song (RHTP)3. Kashmir (Led Zepplin) + Creep (Radiohead)
+4. The Night we met (Lord Huran)
+5. Crazy (Ray LaMontagne)
+6. Dancing on my own
 
 <hr style="opacity: 0.2">
 
@@ -81,16 +47,16 @@ permalink: /chosen6/
 2. Muse + Radiohead
 3. Red Hot Chilli Peppers + Nirvana
 4. Led Zepplin + Skillet
-5. 5 Seconds of Summer + Pink Floyd
+5. 5 Seconds of Summer
 6. Imagine Dragons + Sum41
 
 <hr style="opacity: 0.2">
 
-## Best-6 Single-Artists
+## Best-6 Artists
 
 1. Eminem
-2. Jackson Browne
-3. Sam Smith
+2. Ray Lamontage
+3. Ed Sheeran
 4. Chase Goehring
 5. Louisa Johnson
 6. Zayn Malik
@@ -102,7 +68,7 @@ permalink: /chosen6/
 1. Petyr Baelish
 2. Justin Roiland
 3. Benedict Cumberbatch
-4. Walter White
+4. The Ultimate Spider-man
 5. Neil Patrick Harris
 6. Jim Parsons
 
@@ -111,11 +77,11 @@ permalink: /chosen6/
 
 ## Best-6 Comic Book Characters
 
-1. Flash + Batman
+1. Flash
 2. Scooby-Doo
-3. Norse-God Thor
-4. Green Arrow
-5. Nightwing + Hulk
+3. Thor
+4. Green-Arrow
+5. Nightwing
 6. Aquaman
 
 
