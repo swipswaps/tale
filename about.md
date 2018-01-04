@@ -26,10 +26,10 @@ Was that a little-complicated way to express? Let me try to **describe myself in
 <br>
 ## Field that I'm explicitly interested in
 1. **Psychology -the fine line of Materialistic-Metaphysics and Spiritual Existentialism**
-2. **Financial Marketing and World Economy**
-3. **Machine Learning - Artificial Intelligence**
+2. **Financial Markets**
+3. **Neural Networks - Artificial Intelligence**
 4. **DC Extended Universe**( Should have mentioned earlier )
-5. **Soft Classic and Dramatical Thriller** ( A Guess for you! )
+5. **Music and Movies Fanatic**
 
 
 Well, I'll try to brag as little as possible about myself and write generously on the beautiful experiences of my life.
