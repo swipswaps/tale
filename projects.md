@@ -38,7 +38,7 @@ permalink: /projects/
 > Python code for creating webservers
 - [Merging-.mp3-files](https://github.com/techcentaur/Merging-.mp3-files)
 > Script to merge two .mp3 or .wav files through directories
--[FaceMash](https://github.com/techcentaur/Facemash)
+- [FaceMash](https://github.com/techcentaur/Facemash)
 > You guessed it right! I copied the idea from <b>Mark Zuckerberg</b><br>
 > Judge people with a single click. A PHP-Dynamic Website. Edit
 Add topics
