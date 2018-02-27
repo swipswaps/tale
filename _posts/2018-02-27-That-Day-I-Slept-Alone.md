@@ -28,7 +28,7 @@ That day I slept alone. <br>
 I went to the ocean once, <br>
 Stopped between the waters, waters amongst.   <br>
 Listened to the sound of curling sway,  <br>
-Cried a little, with the wind halfaway.  <br>
+Cried a little, with the wind halfway.  <br>
 Touched the light rays from twilight, <br>
 Dead silence throughout, with souls lifelike. <br>
 Among the nature, felt like an unknown. <br>
@@ -38,7 +38,7 @@ That day I slept alone. <br>
 <br>
 I went to see my rich fellow, <br>
 Friendly nature but from heart a little shallow. <br>
-Looked at his bunglow and luxourious cars, <br>
+Looked at his bungalow and luxurious cars, <br>
 Drank an old champagne in splendid bars. <br>
 Listened to stories where nothing is expensive, <br>
 Money meant everything, About which they're all pensive. <br>
@@ -48,7 +48,7 @@ That day I slept alone. <br>
 <hr style="opacity: 0.1;">
 <br>
 I went through streets one day, <br>
-A quarter before dusk, mid-summers in may. <br>
+A quarter before dusk, mid-summer in may. <br>
 Saw a crippled old beggar, with an empty bowl, <br>
 Wearing a shredded jacket on a ripped soul. <br>
 His an-year old son was sitting in his lap, <br>
