@@ -7,14 +7,12 @@
     <nav class="nav">
       <div class="nav-container">
         <a href="{{ site.baseurl }}/">
-          <h2 class="nav-title">{{ site.title }}</h2>
+          <img alt="It's Ankit Solanki" style="display: inline-block;" height="30px" width="30px" src="/tale/img/favicon.png"><h2 class="nav-title" style="font-family: 'Gloria Hallelujah';">{{ site.title }}</h2>
         </a>
         <ul>
           <li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
           <li><a href="{{ site.baseurl }}/">Blog</a></li>
-          <li><a href="{{ '/chosen6' | prepend: site.baseurl }}">Chosen-6</a></li>
-          <li><a href="{{ '/projects' | prepend: site.baseurl }}">Projects</a></li>
-          <li><a href="AnkitSolanki_CV.pdf">Resume</a></li>
+          <li><a href="{{ '/projects' | prepend: site.baseurl }}">Workplace</a></li>
         </ul>
     </div>
   </nav>
@@ -23,10 +21,12 @@
       {{ content }}
     </main>
 
-    <footer style="font-family: 'Montserrat';">
+    <footer>
       <span>
-        &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> <b>Ankit</b>. Made with Jekyll using <a href="https://github.com/techcentaur/tale/">Tale</a>.
+        Every one is going to die, so be Alive right now.
+      </span>
+      <span>
+        &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> <b>Ankit</b>
       </span><br>
-    </footer>
   </body>
 </html>
