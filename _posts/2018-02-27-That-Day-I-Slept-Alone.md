@@ -6,10 +6,9 @@ permalink: /thatdayIsleptalone/
 ---
 
 
-A few weeks ago I met a girl, after some minutes of the conversation I get to know that she writes and also beautiful. She asked me that why I don't write? I didn't know what should I say. Later that day I asked myself the same question, I do like English literature and at some levels can feel the essence of poetry, and the artistic nature of words always drop my jaws. From that day, I started to write what I felt is something you be expressed with words. This poem is a subtle consequence of it.
+A few weeks ago I met a girl, after some minutes in the conversation I get to know that she likes to write and also beautifully. She asked me that why don't I write? I didn't know what should I say, it was a sensible thing to listen to. Later that day I asked myself the same question since I do like English literature, and at some levels can feel the essence of poetry; the artistic nature of words always bedazzled me. From that day, I started to write what I felt is something to be expressed with words. This poem is a subtle consequence of it.
 
->This poem's title is 'That day I slept alone'. I think you will get the best out of it when you will interpret the meaning by yourself. Here it is,
-
+>This poem's title is 'That day I slept alone'. Here it is,
 <br>
 <hr style="opacity: 0.1">
 <br>
@@ -59,4 +58,4 @@ That day I slept alone. <br>
 <hr style="opacity: 0.7;">
 <br>
 
-> There can be plenty of meanings, explanations, interpretations of this poem, and I believe that whatever you felt by reading this is correct. 
+> The interpretations of any poem is an independent artwork that totally depends upon the reader, it shouldn't never be challenged.
