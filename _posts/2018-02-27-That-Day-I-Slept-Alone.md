@@ -58,4 +58,4 @@ That day I slept alone. <br>
 <hr style="opacity: 0.7;">
 <br>
 
-> The interpretations of any poem is an independent artwork that totally depends upon the reader, it shouldn't never be challenged.
+> The interpretations of any poem is an independent artwork that totally depends upon the reader, it shouldn't ever be challenged.
